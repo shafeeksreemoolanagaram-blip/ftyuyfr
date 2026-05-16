@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/24News.png" group-title="News;Malayalam",24 News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
